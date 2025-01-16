@@ -1,6 +1,6 @@
 ---
-title: "Markdown Referansları"
-description: "Markdown ve hugo referansları"
+title: "Kullanıcı Girişi: API Detayları"
+description: "Authentication API"
 summary: ""
 date: 2023-09-07T16:13:18+02:00
 lastmod: 2023-09-07T16:13:18+02:00
@@ -14,7 +14,6 @@ seo:
   noindex: false # false (default) or true
 ---
 
-## Kullanıcı Girişi: API Detayları (Authentication API)
 
 {{< tabs "create-new-site" >}}
 {{< tab "npm" >}}
