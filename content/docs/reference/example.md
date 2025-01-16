@@ -14,15 +14,7 @@ seo:
   noindex: false # false (default) or true
 ---
 
-
-## Kod bloğu
-
-
-```bash
-npm install @thulite/doks-core@latest
-```
-
-## Sekme Bazlı
+## Kullanıcı Girişi: API Detayları (Authentication API)
 
 {{< tabs "create-new-site" >}}
 {{< tab "npm" >}}
@@ -30,7 +22,6 @@ npm install @thulite/doks-core@latest
 ```bash
 npm create thulite@latest
 ```
-
 
 {{< /tab >}}
 {{< tab "pnpm" >}}
