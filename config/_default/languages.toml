@@ -38,5 +38,5 @@
   [tr.params]
     languageISO = "TR"
     languageTag = "tr-TR"
-    footer = 'We are on the same side <a class="text-muted" href="https://www.mobiusyazilim.com/">Mobius</a>'
+    footer = 'We are on the same side <a class="text-muted" href="https://www.mobiusyazilim.com/">Mobius</a> ❤️ <a class="text-muted" href="https://getdoks.org/">DOKS</a>'
     alertText = '<a class="alert-link stretched-link fw-normal" href="/blog/example-post/">Doks version 1.0 just shipped!</a>'
