@@ -1,5 +1,5 @@
 ---
-title: "Mobius Doks"
+title: "Mobius Platform"
 description: ""
 lead: "Workcube API"
 date: 2023-09-07T16:33:54+02:00
